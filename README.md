@@ -4,7 +4,7 @@ Arduino Robot Muscle (ARM) aims to reduce the barriers to entry into robotics by
   <img src="/arm_img.png" alt="ARM"><br><br>
 </div>
 
-## My contributions:
+## My contributions: 
 1. Testing and calibration of potentiometers and servo motors.
 2. Perofmring calculations to get torque requirements for the servo motors.
 3. Integrated the entire system with Arduino Uno, writing code in C.
