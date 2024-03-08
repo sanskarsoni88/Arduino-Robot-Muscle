@@ -7,5 +7,9 @@ Arduino Robot Muscle (ARM) aims to reduce the barriers to entry into robotics by
 3. Integrated the entire system with Arduino Uno.
 4. Debugged and assembled the master arm, minimizing deadzones in potentiometers and ensuring accurate replication of the slave arm.
 
+## DEMO:
+[![Watch the video](https://path/to/your/thumbnail.jpg)](https://github.com/sanskarsoni88/Arduino-Robot-Muscle/demo.mp4)
+
+
 
 
