@@ -9,7 +9,7 @@ Arduino Robot Muscle (ARM) aims to reduce the barriers to entry into robotics by
 
 ## DEMO:
 [Github link](/demo.mp4) <br>
-[Drive link] (https://drive.google.com/file/d/1go8qnV8zQqpMuG9rQITsroQbAiZ7AGhw/view?usp=sharing)
+[Drive link](https://drive.google.com/file/d/1go8qnV8zQqpMuG9rQITsroQbAiZ7AGhw/view?usp=sharing)
 
 
 
